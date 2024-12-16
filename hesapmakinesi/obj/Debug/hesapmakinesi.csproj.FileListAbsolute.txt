@@ -1,0 +1,10 @@
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\blexier\Desktop\hesap makinesi\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
